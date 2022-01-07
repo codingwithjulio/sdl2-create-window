@@ -2,6 +2,8 @@
 
 A SDL2 project template on how to create a window using SLD2.
 
+A written tutorial with the step-by-step instructions on how to create a window using SDL2 is available at [https://www.codingwithjulio.com/learning-sdl2-how-to-create-a-sdl2-window/](https://www.codingwithjulio.com/learning-sdl2-how-to-create-a-sdl2-window/)
+
 ## Pre-requisites
 
 SDL2 installed on your system.
