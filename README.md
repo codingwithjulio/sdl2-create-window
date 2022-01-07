@@ -1,10 +1,16 @@
-# SDL2-Starter Linux
+# SDL2 How to Create a Window
 
-A SDL2 project template ready to be used with VSCode on Linux.
+A SDL2 project template on how to create a window using SLD2.
 
 ## Pre-requisites
 
-The project template comes with the links already setup pointing to the original location of the SDL2 and SLD2_image libraries on linux.
+SDL2 installed on your system.
+
+This project was created on Linux. For other systems some adjustements might be necessary.
+
+A Makefile.mac is provided in case you want to build it on a Mac.
+
+For windows, the Makefile might need some adjustments as well as the included `.vscode` config files.
 
 ## Building the application
 
